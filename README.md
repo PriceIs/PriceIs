@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning about programing
 
-- Py0th3 Sherlock: python3 -m pip install -r requirements.txt
+- Python3 Sherlock: python3 -m pip install -r requirements.txt
